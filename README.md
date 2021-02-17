@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vinifroes
+- 👀 I’m interested in partnerships and startups
+- 🌱 I’m currently learning vue and flutter
+- 💞️ I’m looking to collaborate on startup projects
+- 📫 How to reach me +55 62 9 8140 0497
